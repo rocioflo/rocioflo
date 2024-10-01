@@ -2,9 +2,9 @@
 
 ¡Hola, caracola!
 
-Me llamo Rocío Florencio✨ Soy una Frontend Developer que vive cantando. 
+Me llamo Rocío Florencio✨ Soy una Frontend Developer que programa cantando. 
 
-React es mi gran amor, pero mi yaya decía que había que tener varias velas encendidas 👀 Así que siempre estoy ojo avizor para retos nuevos que me enganchen.
+Estoy ahora entre dos aguas: aprendiendo patrones de OOP y, a la vez, aprendiendo programación funcional. 👀 Siempre ojo avizor para encontrar retos nuevos que me enganchen.
 
 Échale un vistazo a mis repositorios. Siempre estoy creando proyectitos para no parar nunca de aprender🥰
 
@@ -19,9 +19,9 @@ Hi, lovely!
 
 I'm Rocío Florencio✨ A Spanish Frontend Developer who sings her way through code.
 
-React would be my one true love, but grandma always said to keep your options open 👀 So I'm always on the lookout for new challenges that get me hooked.
+Right now I'm learning OOP patterns and, at the same time, Functional Programming. Talk about opposits! 👀 Always on the lookout for new challenges to get hooked on.
 
-Don't miss on my repositories. I'm always immersed in small projects that keep me learning🥰
+Don't miss out on my repositories. I'm always immersed in small projects that keep me learning🥰
 
 Wanna reach out? I'm very nice. [This is my Linkedin!](https://www.linkedin.com/in/rflorencio/?locale=en_US)
 

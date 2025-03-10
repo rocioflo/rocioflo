@@ -19,7 +19,7 @@ Hi, lovely!
 
 I'm Rocío Florencio✨ A Spanish Frontend Developer who sings her way through code.
 
-Right now I'm learning OOP patterns and, at the same time, Functional Programming. Talk about opposits! 👀 Always on the lookout for new challenges to get hooked on.
+Right now I'm learning OOP patterns and, at the same time, Functional Programming. Talk about opposites! 👀 Always on the lookout for new challenges to get hooked on.
 
 Don't miss out on my repositories. I'm always immersed in small projects that keep me learning🥰
 
